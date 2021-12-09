@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Huy Hoang Pham
-- 👀 I’m interested in Artificial Intelligent, Software Development and basically all kind of technologies
-- 🌱 I’m currently learning Software Development
+- 👋 Hi, I’m Huy Hoang Pham.
+- 👀 I’m interested in Artificial Intelligent, Software Development and all kind of technologies.
+- 🌱 I’m currently learning Software Development, Web Development, Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 Personal email: phamhuyhoang52888@gmail.com
