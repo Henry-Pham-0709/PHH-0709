@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 Personal email: phamhuyhoang52888@gmail.com
-Phone number: Please let me know in my mail if you want my phone number (just for security purpose)
+Phone number: Please let me know in my mail if you want my phone number
 
 <!---
 PHH-0709/PHH-0709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
